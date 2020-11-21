@@ -1,0 +1,13 @@
+4
+Frios, 1, 4000, 2
+Queso
+Jamon
+Legumbres, 2, 6000, 2
+Zanahoria
+Tomates
+Enlatados, 3, 10000, 2
+Atun
+Sardina
+Frios, 1, 3000, 2
+Tocino
+Yogur
